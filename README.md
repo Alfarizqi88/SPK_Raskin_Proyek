@@ -7,5 +7,5 @@ M. Daffa Attariq  (17)
 TI4E / Politeknik Negeri Malang
 
 1. lakukan import db phpmyadmin dengan nama db proyek_sql
-2. ganti penamaan folder dari backend_php menjadi back_end_proyek_spk
+2. masukkan ketiga folder tersebut kedalam htdocs yang berada di folder xampp
 3. lakukan npm instal pada folder proyek_spk_apk2
