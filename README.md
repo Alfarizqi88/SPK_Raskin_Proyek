@@ -1,4 +1,4 @@
-# SPK_Raskin_Proyek
+# Implementasi Perbandingan Sistem Pendukung Keputusan Menggunakan Metode MFEP Dengan SAW Dalam Penentuan Penerimaan Bantuan Program Raskin
 Anggota:
 Alfarizqi Abiyyu  (06)
 Kris Aditya       (15)
@@ -6,7 +6,17 @@ M. Daffa Attariq  (17)
 
 TI4E / Politeknik Negeri Malang
 
-1. lakukan import db phpmyadmin dengan nama db proyek_sql
-2. masukkan ketiga folder tersebut kedalam htdocs yang berada di folder xampp
-3. lakukan npm instal pada folder proyek_spk_apk2
-4. buka pycharm dan run file admin.py untuk menjalankan jwt pada saat login
+Cara penggunaan Frontend:
+1. lakukan instalasi node modul dengan perinta "npm install" pada terminal folder proyek_spk_apk2
+2. jika sukses, jalankan perintah npm start
+
+Cara penggunaan Backend:
+1. buka pycharm dan install depedency python yang dibutuhkan.
+2. Jika selesai lakukan run file admin.py untuk menjalankan jwt pada saat login
+3. masukkan ketiga folder tersebut kedalam htdocs yang berada di folder xampp
+
+Import database:
+1. buatlah database dengan nama proyek_spk
+2. import file proyek_spk.sql pada database yang telah dibuat.
+
+
